@@ -44,24 +44,20 @@ external-links:    # input only your own url slug. The icons with missing entrie
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
 skills:
-  - category: CAD Software
+  - category: Software
     tools:
-    - Onshape
+    - Microsoft Office
     - Solidworks
     - AutoCAD
-  - category: Prototyping
+    - ANSYS
+    - MATLAB
+  - category: Prototyping & Testing
     tools:
-    - SLA
-    - CNC
-    - FDM
-    - SLS
-    - DMLS
-    - PolyJet Printing
-    - Vacuum Casting
-    - Laser Cutting
-    - Water Jet Cutting
-    - Arduino / Raspberry Pi
+    - MIG Welding
+    - 3D Printing
+    - Arduino
     - Breadboarding for circuit testing
+    - Wind tunnel 
   - category: Design Standards / Practices
     tools:
     - GD&T ASME Y14  
@@ -75,8 +71,8 @@ formspree-key:   https://formspree.io/f/mkoaqgjr
 colors: # this is the basic theme
   text: "#1a1c20"
   border: "#ddd"
-  link: "#4a76ee"
-  highlight: "#0c0cf2"
+  link: "#990000"
+  highlight: "#ea1500"
   background: "#ffffff"
   light_background: "#f3f5fb"
 

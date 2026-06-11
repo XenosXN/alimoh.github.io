@@ -31,7 +31,7 @@ resume-url: /assets/resume/AliMoh - Resume 2026.pdf # or /assets/resume/resume.p
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: www.linkedin.com/in/ali-m-ali7803    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: johndoe1    # https://www.linkedin.com/in/{ali-m-ali7803} 
   
 
 # Skills Section - Add the list of your Skills by categories/tools. The indentation for each level needs to be precise. 
